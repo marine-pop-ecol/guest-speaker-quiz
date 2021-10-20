@@ -22,4 +22,9 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 - 3 vital pieces of information were given to you to succeed as ecologists (6 points)
 - how/ what information from the lectures you were able to use during the course (4 points)
 
-## Submission details
+## Submission guidelines
+Please write your quiz your summary (1 page max) as an RMarkdown file, titled [yourname]-[speaker]-quiz.Rmd. Then knit the RMarkdown file to a .pdf file. 
+That .pdf file will be what's graded.
+
+** Submit your file by 1000 on Friday November 5th**
+
