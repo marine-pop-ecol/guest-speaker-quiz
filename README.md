@@ -26,5 +26,5 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 Please write your quiz your summary (1 page max) as an RMarkdown file, titled [yourname]-[speaker]-quiz.Rmd. Then knit the RMarkdown file to a .pdf file. 
 That .pdf file will be what's graded.
 
-** Submit your file by 1000 on Friday November 5th**
+**Submit your file by 1000 on Friday November 5th**
 
