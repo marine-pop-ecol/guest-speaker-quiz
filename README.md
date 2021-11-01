@@ -19,12 +19,12 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 
 ### At the end of the term we will quiz you on things related to the overall theme of the series and questions related to points 4, 5, and 6 above (15 points total):
 - 1 paragraph on what you learned from the entire speaker series (5 points)
-- Describe 3-4 of the 8 vital pieces of information that were given to you to succeed as ecologists (6 points)
+- Describe 3-4 of the many vital pieces of information that were given to you to succeed as ecologists (6 points)
 - Describe how you used the information from the lectures during the course, and/or how you will use it in the future (4 points)
 
 ## Submission guidelines
 Please write your quiz your summary (1 page max) as an RMarkdown file, titled [yourname]-[speaker]-quiz.Rmd. Then knit the RMarkdown file to a .pdf file. 
 That .pdf file will be what's graded.
 
-*Submit your file by 1000 on Friday November 5th*
+*Submit your file by 1600 on Tuesday November 2nd*
 
